@@ -1,0 +1,17 @@
+{
+    "quote_enable" : false,
+    "quote_style" : "outline",
+    "curly_style" : "outline",
+    "round_style" : "outline",
+    "square_style": "outline",
+    "angle_style" : "outline",
+    "tag_style"   : "outline",
+    "match_adjacent_only" : true,
+    "quote_scope" : "entity.name.class",
+    "curly_scope" : "entity.name.class",
+    "round_scope" : "entity.name.class",
+    "square_scope": "entity.name.class",
+    "angle_scope" : "entity.name.class",
+    "tag_scope"   : "entity.name.class",
+    "no_multi_select_icons": true
+}

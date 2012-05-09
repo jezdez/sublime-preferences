@@ -1,0 +1,11 @@
+{
+	"folder_exclude_patterns":
+	[
+		".tox",
+		".git"
+	],
+	"ignored_packages":
+	[
+		".DS_Store"
+	]
+}

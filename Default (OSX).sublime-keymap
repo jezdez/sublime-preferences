@@ -1,0 +1,8 @@
+[
+    { "keys": ["alt+tab"], "command": "unindent", "context":
+        [
+            { "key": "setting.shift_tab_unindent", "operator": "equal", "operand": true }
+        ]
+    },
+    { "keys": ["super+shift+r"], "command": "reveal_in_side_bar"}
+]

@@ -1,0 +1,32 @@
+{
+	"auto_upgrade_last_run": 1335958805,
+	"installed_packages":
+	[
+		"AutoSelect",
+		"BracketHighlighter",
+		"BufferScroll",
+		"Djaneiro",
+		"Django-DocsSearch",
+		"FileDiffs",
+		"Function Name Display",
+		"HTML5",
+		"INI",
+		"Open Recent Files",
+		"Package Control",
+		"Pretty JSON",
+		"SetDjangoSyntax",
+		"SetSyntax",
+		"SubDpaste",
+		"SublimeLinter",
+		"Theme - Soda",
+		"TrailingSpaces",
+		"UnofficialDocs"
+	],
+	"repositories":
+	[
+		"https://github.com/vorushin/sublimetext_python_checker",
+		"https://github.com/kemayo/sublime-text-2-git",
+		"https://github.com/ilja/Solarium.sublime-theme",
+		"https://github.com/bartTC/SubDpaste"
+	]
+}

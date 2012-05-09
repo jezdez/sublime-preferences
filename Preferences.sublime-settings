@@ -1,0 +1,55 @@
+{
+	"caret_style": "smooth",
+	"close_windows_when_empty": true,
+	"color_scheme": "Packages/Color Scheme - Default/Espresso.tmTheme",
+	"draw_minimap_border": true,
+	"draw_white_space": "all",
+	"file_exclude_patterns":
+	[
+		"*.pyc",
+		"*.pyo",
+		"*.exe",
+		"*.dll",
+		"*.obj",
+		"*.o",
+		"*.a",
+		"*.lib",
+		"*.so",
+		"*.dylib",
+		"*.ncb",
+		"*.sdf",
+		"*.suo",
+		"*.pdb",
+		"*.idb",
+		".DS_Store",
+		"*.class",
+		"*.psd",
+		"*.db",
+		".DS_Store"
+	],
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		".tox"
+	],
+	"font_face": "Meslo LG L DZ",
+	"font_size": 15.0,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"open_files_in_new_window": false,
+	"remember_open_files": false,
+	"rulers":
+	[
+		78
+	],
+	"shift_tab_unindent": true,
+	"translate_tabs_to_spaces": true,
+	"trim_automatic_white_space": true,
+	"detect_slow_plugins": true
+}
