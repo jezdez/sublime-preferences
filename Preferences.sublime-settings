@@ -35,9 +35,12 @@
 		"CVS",
 		".tox"
 	],
-	"font_face": "Meslo LG L DZ",
+	"font_face": "Consolas",
 	"font_size": 15.0,
+	"bold_folder_labels": true,
 	"highlight_line": true,
+	"drag_text": false,
+	"default_line_ending": "unix",
 	"ignored_packages":
 	[
 		"Vintage"
@@ -51,5 +54,10 @@
 	"shift_tab_unindent": true,
 	"translate_tabs_to_spaces": true,
 	"trim_automatic_white_space": true,
-	"detect_slow_plugins": true
+	"detect_slow_plugins": false,
+	"sublimelinter_delay": 1,
+	"tree_animation_enabled": false,
+	"scroll_past_end": true,
+	"scroll_speed": 0,
+	"create_window_at_startup": false
 }

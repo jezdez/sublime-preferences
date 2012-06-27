@@ -1,26 +1,35 @@
 {
-	"auto_upgrade_last_run": 1335958805,
+	"auto_upgrade_last_run": 1340719549,
 	"installed_packages":
 	[
 		"AutoSelect",
 		"BracketHighlighter",
 		"BufferScroll",
+		"CoffeeScript",
 		"Djaneiro",
 		"Django-DocsSearch",
 		"FileDiffs",
 		"Function Name Display",
+		"Git",
+		"GitHub.app Menu",
+		"GitHubinator",
 		"HTML5",
 		"INI",
+		"Modelines",
 		"Open Recent Files",
 		"Package Control",
 		"Pretty JSON",
 		"SetDjangoSyntax",
 		"SetSyntax",
+		"SideBarEnhancements",
+		"SplitScreen",
 		"SubDpaste",
 		"SublimeLinter",
+		"Terminal",
 		"Theme - Soda",
 		"TrailingSpaces",
-		"UnofficialDocs"
+		"UnofficialDocs",
+		"View In Browser"
 	],
 	"repositories":
 	[
